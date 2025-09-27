@@ -1,22 +1,20 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
-  <Id>ari-steas/ModNetworkProfiler</Id>
+  <Id>Codiiiy/SEHotasPlugin</Id>
   
   <!-- The name of your plugin that will appear in the list. -->
-  <FriendlyName>ModNetworkProfiler</FriendlyName>
+  <FriendlyName>SEHotasPlugin</FriendlyName>
   
   <!-- The author name that you want to appear in the list. -->
-  <Author>Aristeas</Author>
+  <Author>Codiiiy</Author>
   
   <!-- Optional tag that adds a tooltip to the plugin in-game. -->
-  <Tooltip>Displays and logs mod networking status.</Tooltip>
+  <Tooltip>Adds Joysticks and throttles control binding to Space Engineers.</Tooltip>
 
-  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
-  <Description>This plugin creates a seperate window upon launching Space Engineers that displays information about mod networking, including packet count and size. It also generates a log file for this information, located in the game's AppData folder.</Description>
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
-  <Commit>93bee07f19ea397769c88ce9647bf82fdecb1ac7</Commit>
+  <Commit>f30e7780bc51dbcdd817baba33f06231b01dceb6</Commit>
   
   <!-- Optional list of directories to take the cs files from. Use this if your repository has more than one project in it. (It is not needed for Tool Switcher)
   <SourceDirectories>

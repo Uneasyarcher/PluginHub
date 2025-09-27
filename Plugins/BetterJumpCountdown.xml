@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
-  <Id>Casimir255/SeamlessClient</Id>
+  <!-- Place your github repository name here. One repository can only store one plugin. -->
+  <Id>StarCpt/SE-BetterJumpCountdown</Id>
   
   <!-- The name of your plugin that will appear in the list. -->
-  <FriendlyName>Nexus Seamless Switcher</FriendlyName>
+  <FriendlyName>Better Jump Countdown</FriendlyName>
   
   <!-- The author name that you want to appear in the list. -->
-  <Author>Casimir</Author>
+  <Author>StarCpt</Author>
   
   <!-- Optional tag that adds a tooltip to the plugin in-game. -->
-  <Tooltip>Allows transferring between Nexus-enabled servers seamlessly</Tooltip>
+  <Tooltip>Better jump countdown with a progress bar.</Tooltip>
 
   <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
-  <Description>This plugin allows seamless transfers between Nexus-enabled servers. Some mods or plugins may not play nicely with switching between servers. Be cautious when using!</Description>
+  <Description>Better jump countdown with a progress bar.</Description>
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
-  <Commit>f77a1750993fbb71cce651fc8e9c9f9a0d6adeb3</Commit>
+  <Commit>d0f72a7084c4e8d31ed90d88c8a5695d77be50f8</Commit>
 </PluginData>

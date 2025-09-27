@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
-  <Id>Casimir255/SeamlessClient</Id>
+  <!-- Place your github repository name here. One repository can only store one plugin. -->
+  <Id>StarCpt/SE-ServerShortcuts</Id>
   
   <!-- The name of your plugin that will appear in the list. -->
-  <FriendlyName>Nexus Seamless Switcher</FriendlyName>
+  <FriendlyName>Server Shortcuts/Quick Join</FriendlyName>
   
   <!-- The author name that you want to appear in the list. -->
-  <Author>Casimir</Author>
+  <Author>StarCpt</Author>
   
   <!-- Optional tag that adds a tooltip to the plugin in-game. -->
-  <Tooltip>Allows transferring between Nexus-enabled servers seamlessly</Tooltip>
+  <Tooltip>Adds a fast way to join servers.</Tooltip>
 
   <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
-  <Description>This plugin allows seamless transfers between Nexus-enabled servers. Some mods or plugins may not play nicely with switching between servers. Be cautious when using!</Description>
+  <Description>Adds a fast way to join servers. The "Quick Join" button brings up the server shortcut menu.</Description>
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
-  <Commit>f77a1750993fbb71cce651fc8e9c9f9a0d6adeb3</Commit>
+  <Commit>f32dd065c3d5c576565208fde67f6d20eec1ab47</Commit>
 </PluginData>
